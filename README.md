@@ -1,6 +1,6 @@
 # Outrun Everything
 
-## Original Description
+## Original Description:
 
 > This is a small (growing?) collection of user-stylesheets based upon the
 [Solarized](http://ethanschoonover.com/solarized) theme
